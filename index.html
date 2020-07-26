@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Unity WebGL Player | Ayo Dokter Kimo!</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <script src="./assets/js/jquery-3.4.1.min.js"></script>
+
+  <!-- unity resources -->
+  <script src="./assets/vendor/UnityProgress.js"></script>
+  <script src="./Build/UnityLoader.js"></script>
+  <script>
+    const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL.json", {
+      onProgress: UnityProgress
+    });
+  </script>
+</head>
+
+<body>
+  <main>
+    <div class="info">
+      <h1>Ayo Dokter Kimo!</h1>
+      <p>Tekan F atau <a href="#" onclick="unityInstance.SetFullscreen(1)">tekan disini</a> untuk masuk ke mode Fullscreen</p>
+    </div>
+    <div class="webgl-wrapper">
+      <div class="webgl-content">
+        <div id="unityContainer" style="width:1280px; height: 720px;"></div>
+      </div>
+    </div>
+    <div class="warning">
+      <p>Aplikasi ini sangat tidak disarankan untuk dibuka di smartphone dalam keadaan portrait!</p>
+    </div> 
+  </main>
+
+  <script src="./assets/js/app.js"></script>
+</body>
+
+</html>
