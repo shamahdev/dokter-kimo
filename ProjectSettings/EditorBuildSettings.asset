@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 2c961c428b7ca0240826cfb3e02bf455
+  - enabled: 1
+    path: Assets/Scenes/Materi.unity
+    guid: 158fe1661ed71504392d16fec7cbe71e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 204f8686d963f84428de7071b1ef9f19
+  - enabled: 1
+    path: Assets/Scenes/CutsceneOnly.unity
+    guid: a38d065eed57c9d49a428b661c328c4d
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: b42f1188e40e8504b89d99d9c73153e9
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: ae7b819e0f9ac7649b633241b0c904d0
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: 53faa398fb0bcd744a05b651112b8673
+  - enabled: 1
+    path: Assets/Scenes/Game5.unity
+    guid: d31945966fedec24fa8cf028f485e539
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: b0de535ddcebb9e4fa927630d0c4a17a
+  m_configObjects: {}

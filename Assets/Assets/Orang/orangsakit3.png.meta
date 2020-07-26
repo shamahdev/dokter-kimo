@@ -1,0 +1,2035 @@
+fileFormatVersion: 2
+guid: bb3ca534fd0f4a84ca91664960ef9a2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2742428625249287646
+    second: orangsakit3_0
+  - first:
+      213: 2827779740559131845
+    second: orangsakit3_1
+  - first:
+      213: -2023550809788480207
+    second: orangsakit3_2
+  - first:
+      213: -7936939931485458642
+    second: orangsakit3_3
+  - first:
+      213: 5830832546120319337
+    second: orangsakit3_4
+  - first:
+      213: -8557403971143970776
+    second: orangsakit3_5
+  - first:
+      213: 8449167555104551269
+    second: orangsakit3_6
+  - first:
+      213: 2470145072233987510
+    second: orangsakit3_7
+  - first:
+      213: -1777980857178429048
+    second: orangsakit3_8
+  - first:
+      213: -2129630381282241210
+    second: orangsakit3_9
+  - first:
+      213: -6248886380622996988
+    second: orangsakit3_10
+  - first:
+      213: 5137083972748141707
+    second: orangsakit3_11
+  - first:
+      213: 6647736016828671405
+    second: orangsakit3_12
+  - first:
+      213: 7688646500958514894
+    second: orangsakit3_13
+  - first:
+      213: -2312961093954650563
+    second: orangsakit3_14
+  - first:
+      213: 3635519883917732068
+    second: orangsakit3_15
+  - first:
+      213: -1023399088014536417
+    second: orangsakit3_16
+  - first:
+      213: -3793101283070640134
+    second: orangsakit3_17
+  - first:
+      213: 2764480102032797355
+    second: orangsakit3_18
+  - first:
+      213: 5746459205467643554
+    second: orangsakit3_19
+  - first:
+      213: -7223311943775794847
+    second: orangsakit3_20
+  - first:
+      213: 6826468642186791299
+    second: orangsakit3_21
+  - first:
+      213: -890099428073307185
+    second: orangsakit3_22
+  - first:
+      213: 2160469689901403652
+    second: orangsakit3_23
+  - first:
+      213: -6666726688977567767
+    second: orangsakit3_24
+  - first:
+      213: 4610569224528046946
+    second: orangsakit3_25
+  - first:
+      213: -5612136380099301107
+    second: orangsakit3_26
+  - first:
+      213: -6645924768087710412
+    second: orangsakit3_27
+  - first:
+      213: -5470211867361686591
+    second: orangsakit3_28
+  - first:
+      213: -4136510714222996284
+    second: orangsakit3_29
+  - first:
+      213: 6718263994745159461
+    second: orangsakit3_30
+  - first:
+      213: 950571398212562477
+    second: orangsakit3_31
+  - first:
+      213: -7702690999362269147
+    second: orangsakit3_32
+  - first:
+      213: -1083963532348615514
+    second: orangsakit3_33
+  - first:
+      213: 3456520906755469420
+    second: orangsakit3_34
+  - first:
+      213: -8132875768635760568
+    second: orangsakit3_35
+  - first:
+      213: 1398969509756069586
+    second: orangsakit3_36
+  - first:
+      213: -111020921555173106
+    second: orangsakit3_37
+  - first:
+      213: -3653500949306386627
+    second: orangsakit3_38
+  - first:
+      213: 3117958644728318500
+    second: orangsakit3_39
+  - first:
+      213: 5697742861367424267
+    second: orangsakit3_40
+  - first:
+      213: -8588506155404001011
+    second: orangsakit3_41
+  - first:
+      213: 6529141293708268018
+    second: orangsakit3_42
+  - first:
+      213: -3079683817933003146
+    second: orangsakit3_43
+  - first:
+      213: -5906143091767124775
+    second: orangsakit3_44
+  - first:
+      213: 5795515181400097676
+    second: orangsakit3_45
+  - first:
+      213: 8097043473715765859
+    second: orangsakit3_46
+  - first:
+      213: -6653450997396092149
+    second: orangsakit3_47
+  - first:
+      213: -1908709186823256537
+    second: orangsakit3_48
+  - first:
+      213: -8904444519780937086
+    second: orangsakit3_49
+  - first:
+      213: 3739876059393217880
+    second: orangsakit3_50
+  - first:
+      213: 794831119131902770
+    second: orangsakit3_51
+  - first:
+      213: 6331909158511853040
+    second: orangsakit3_52
+  - first:
+      213: 1560517052676819311
+    second: orangsakit3_53
+  - first:
+      213: -675806663185395667
+    second: orangsakit3_54
+  - first:
+      213: -8994062536523217614
+    second: orangsakit3_55
+  - first:
+      213: 5810053210071483383
+    second: orangsakit3_56
+  - first:
+      213: 6574101521900018239
+    second: orangsakit3_57
+  - first:
+      213: 6195922382551005366
+    second: orangsakit3_58
+  - first:
+      213: 2560234920092332627
+    second: orangsakit3_59
+  - first:
+      213: 5552233102626986422
+    second: orangsakit3_60
+  - first:
+      213: -4032880109636173504
+    second: orangsakit3_61
+  - first:
+      213: -8149046088437984869
+    second: orangsakit3_62
+  - first:
+      213: 5514467275293665776
+    second: orangsakit3_63
+  - first:
+      213: -74074533671625508
+    second: orangsakit3_64
+  - first:
+      213: 1512318645832376110
+    second: orangsakit3_65
+  - first:
+      213: -5537379348211535081
+    second: orangsakit3_66
+  - first:
+      213: -3830269463148423502
+    second: orangsakit3_67
+  - first:
+      213: 9070059526282208208
+    second: orangsakit3_68
+  - first:
+      213: -4199440629438945890
+    second: orangsakit3_69
+  - first:
+      213: -7357383352307464078
+    second: orangsakit3_70
+  - first:
+      213: -6220984269379419780
+    second: orangsakit3_71
+  - first:
+      213: -6060235789970397483
+    second: orangsakit3_72
+  - first:
+      213: -4004275297631534383
+    second: orangsakit3_73
+  - first:
+      213: -6864275570971570914
+    second: orangsakit3_74
+  - first:
+      213: -8749835773955166280
+    second: orangsakit3_75
+  - first:
+      213: -4725988307845307583
+    second: orangsakit3_76
+  - first:
+      213: -2978904999396162015
+    second: orangsakit3_77
+  - first:
+      213: -1050961912293914691
+    second: orangsakit3_78
+  - first:
+      213: -2258523876948732400
+    second: orangsakit3_79
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orangsakit3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e98f33c7959454c84a8056a593784a
+      internalID: -2742428625249287646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329033658f4f4674f8690a3ff802b501
+      internalID: 2827779740559131845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851de996fa4bef44aed7a83d7f210ae
+      internalID: -2023550809788480207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb3fac43b96684d8287a795ba3b0dd
+      internalID: -7936939931485458642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d99a8fb55225b44bf2416dccd4096b
+      internalID: 5830832546120319337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d56000626b1fe47a974c7ff44fb077
+      internalID: -8557403971143970776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_6
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a395bef8a2f3049a6b37d7a2f5c483
+      internalID: 8449167555104551269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_7
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4985888c805e4274c9ea19ffd1ee91f8
+      internalID: 2470145072233987510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_8
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3740
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ac29916a43a043bb4bad6884d1902
+      internalID: -1777980857178429048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871fdc1caa3110a488f48e02343f1849
+      internalID: -2129630381282241210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb0a67ba2ce8540b271bc594eac965
+      internalID: -6248886380622996988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26f76fe860b924abb670aa0d9e70b8
+      internalID: 5137083972748141707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501acfafc8d5e42438f2eb877c4ad08f
+      internalID: 6647736016828671405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d391314aa5d7c418243aac94763db0
+      internalID: 7688646500958514894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_14
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6f372969b042346bf2225e7321bd40
+      internalID: -2312961093954650563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_15
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a03b4c6d5a3a74db6b0c2a8617d80b
+      internalID: 3635519883917732068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_16
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494b87ac27cec9499bddd809f8e6fb5
+      internalID: -1023399088014536417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_17
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3384
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af66362bb69b44298d7bd19be20592
+      internalID: -3793101283070640134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706bc8712154c1b4b9a6bc2bc252ed8a
+      internalID: 2764480102032797355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f12db11b475c4484552aea74f596d
+      internalID: 5746459205467643554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637fdff0630657242863226a9504cac6
+      internalID: -7223311943775794847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e78887ea4d3b24f937d68f5c838cd1
+      internalID: 6826468642186791299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_22
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ae61a5ed4de04b8367f99ac7a0bc6
+      internalID: -890099428073307185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_23
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993804e6c6f44dd498520294900c7fc7
+      internalID: 2160469689901403652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_24
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8562646bab1e4f84e2383cd7f4315
+      internalID: -6666726688977567767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_25
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97a224ce3d75b4c9ba899b85989c1d
+      internalID: 4610569224528046946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_26
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3028
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2025a0845411479f51f5fc671fc67
+      internalID: -5612136380099301107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4883882d0da89b4bb0fe5f25f1df98d
+      internalID: -6645924768087710412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035267fbd57076b479faddf4e63c255d
+      internalID: -5470211867361686591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5246275048ba6458c5580a202e971f
+      internalID: -4136510714222996284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_30
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a709ae81393cf34ea97c4bdbfb9a28c
+      internalID: 6718263994745159461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_31
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27f16799e77494fa955a97d7b79132
+      internalID: 950571398212562477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_32
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f074ac65db834eb570f22405f3be4
+      internalID: -7702690999362269147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_33
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227029c6b22208c47935e1a5504a0d7b
+      internalID: -1083963532348615514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_34
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d377b2472c75ec4ab6b26e86820e49d
+      internalID: 3456520906755469420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_35
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2672
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cbcc52bcb574f448b01eb2da910d52
+      internalID: -8132875768635760568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a532040a358a0de4295128eb50bbe22e
+      internalID: 1398969509756069586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96eab5bf83a4b847b830bf34faba6a5
+      internalID: -111020921555173106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_38
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5d906a3aa22d34e9c9793f025a284b
+      internalID: -3653500949306386627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_39
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d529001fd9e4409bc46b3b9be627a
+      internalID: 3117958644728318500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f877826249a99240b3efacb415d2a7c
+      internalID: 5697742861367424267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_41
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7421b9a84bea5f4fb728edeaba2e8bb
+      internalID: -8588506155404001011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_42
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e229e625ada6241bc2d2ca94b5eecd
+      internalID: 6529141293708268018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_43
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23d05edc0931c45941f254092031bb
+      internalID: -3079683817933003146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_44
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2316
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eb6b4e9030afa4091457e6417ef551
+      internalID: -5906143091767124775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813fb6ddc563a14da65b1cae4b487a8
+      internalID: 5795515181400097676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff2331d3ca9294ba361293cc463a00
+      internalID: 8097043473715765859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf31785ce7e3f947a7ed0797ab32f19
+      internalID: -6653450997396092149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_48
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40c7c25475cb047883730fa064d8b4
+      internalID: -1908709186823256537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_49
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad89ea0d8affed4da18b8a60f2269c2
+      internalID: -8904444519780937086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_50
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9051a35fe536b4a81a0fd8393d0212
+      internalID: 3739876059393217880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_51
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5544955b9214498acaa704ff0da2c
+      internalID: 794831119131902770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_52
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3371af9e3c99f148ba622a5cc80ee95
+      internalID: 6331909158511853040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_53
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1960
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e66ad722d6cd843bd907c9ea0781a9
+      internalID: 1560517052676819311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43411a59aab5d3d41b90ba2a30d2caed
+      internalID: -675806663185395667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_55
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a0bfd4579a3bb498d2a1c0cb948f3c
+      internalID: -8994062536523217614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_56
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11316cc7e5dbd24cbebe9ab0e1a299f
+      internalID: 5810053210071483383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6def127c6b98adf49bba6ab4c522c72c
+      internalID: 6574101521900018239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_58
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73cc54e719d964e8e6640335f63fc2
+      internalID: 6195922382551005366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_59
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e90fd9507372489e25545d75d25d8
+      internalID: 2560234920092332627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_60
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f497661740a0e4f84bf2829935be60
+      internalID: 5552233102626986422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_61
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4bfc6119ac064c92b9fdda081288f
+      internalID: -4032880109636173504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_62
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1604
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d110192b279c124bb264ea86049b9fb
+      internalID: -8149046088437984869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8626c20ff699428a36b6c22f2441c
+      internalID: 5514467275293665776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce12b69aa701a514088e065f04a1a1dc
+      internalID: -74074533671625508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_65
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352fad835d874644a554cfa51c26aac
+      internalID: 1512318645832376110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_66
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20533b7b834ae0499735ea42cec0787
+      internalID: -5537379348211535081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_67
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ac8558e7b5eff4d80a6c21b8b1686b
+      internalID: -3830269463148423502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_68
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44ee9738c0a4047afd42fbc9f1d407
+      internalID: 9070059526282208208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_69
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ff4c8257fac84d82b32f920915425
+      internalID: -4199440629438945890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_70
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9c08aa7fc607429db343c2be64c79
+      internalID: -7357383352307464078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_71
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1248
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94dd7a30aa1c148b6a68db4e17b899
+      internalID: -6220984269379419780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db9c8f2ea80e3143a81184d34ab39f9
+      internalID: -6060235789970397483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c2dc43d6c02214da0f29e7b55d56b1
+      internalID: -4004275297631534383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_74
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f1c3d28e42c834881600f0823bef8a
+      internalID: -6864275570971570914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_75
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097bf837e9ed124fa45337f6cd36d00
+      internalID: -8749835773955166280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_76
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b22a1ad8bd3a5d49a07797cac280e09
+      internalID: -4725988307845307583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_77
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a22cb449cb93841ac2745998d0dffd
+      internalID: -2978904999396162015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_78
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd5b6cb3d1271489380d2a67cd4092
+      internalID: -1050961912293914691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit3_79
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 892
+        width: 221
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9e1addcd6bed45beef6eab1835946
+      internalID: -2258523876948732400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

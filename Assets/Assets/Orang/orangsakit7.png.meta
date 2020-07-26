@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 5308d4dd1d43ea349a4e17b341518df1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7097206713976881211
+    second: orangsakit7_0
+  - first:
+      213: 2409636321672906645
+    second: orangsakit7_1
+  - first:
+      213: -3138643101585739812
+    second: orangsakit7_2
+  - first:
+      213: -5767100406861279951
+    second: orangsakit7_3
+  - first:
+      213: 3635716042392594327
+    second: orangsakit7_4
+  - first:
+      213: -5546409794139301687
+    second: orangsakit7_5
+  - first:
+      213: -5627952327801018345
+    second: orangsakit7_6
+  - first:
+      213: 9146613611263113690
+    second: orangsakit7_7
+  - first:
+      213: 5454865604172481640
+    second: orangsakit7_8
+  - first:
+      213: 1120406594092309606
+    second: orangsakit7_9
+  - first:
+      213: -294386227703326172
+    second: orangsakit7_10
+  - first:
+      213: 7545817364774989848
+    second: orangsakit7_11
+  - first:
+      213: -4316293680514932259
+    second: orangsakit7_12
+  - first:
+      213: 6859029853648352288
+    second: orangsakit7_13
+  - first:
+      213: 4648370030169305376
+    second: orangsakit7_14
+  - first:
+      213: 813493014672143130
+    second: orangsakit7_15
+  - first:
+      213: 7742277603619860866
+    second: orangsakit7_16
+  - first:
+      213: -8286186993688262086
+    second: orangsakit7_17
+  - first:
+      213: 2245224874616456403
+    second: orangsakit7_18
+  - first:
+      213: -25215364058576283
+    second: orangsakit7_19
+  - first:
+      213: -1563839889536240665
+    second: orangsakit7_20
+  - first:
+      213: 9203343284981422400
+    second: orangsakit7_21
+  - first:
+      213: -20372410076680798
+    second: orangsakit7_22
+  - first:
+      213: -2275241445604951230
+    second: orangsakit7_23
+  - first:
+      213: 2418819196085863984
+    second: orangsakit7_24
+  - first:
+      213: 6619325676427281286
+    second: orangsakit7_25
+  - first:
+      213: 4321595464093200732
+    second: orangsakit7_26
+  - first:
+      213: -8330827941137299417
+    second: orangsakit7_27
+  - first:
+      213: 2880230047578011700
+    second: orangsakit7_28
+  - first:
+      213: -1832013170083688253
+    second: orangsakit7_29
+  - first:
+      213: -509903250658273330
+    second: orangsakit7_30
+  - first:
+      213: 1225757005911548146
+    second: orangsakit7_31
+  - first:
+      213: 2108589934440916440
+    second: orangsakit7_32
+  - first:
+      213: 4562538426694905318
+    second: orangsakit7_33
+  - first:
+      213: -3114622578887697804
+    second: orangsakit7_34
+  - first:
+      213: -8984706771704848064
+    second: orangsakit7_35
+  - first:
+      213: 7781176131390853277
+    second: orangsakit7_36
+  - first:
+      213: 5609215093200737725
+    second: orangsakit7_37
+  - first:
+      213: 8026044146106633588
+    second: orangsakit7_38
+  - first:
+      213: -1956477160864781716
+    second: orangsakit7_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orangsakit7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f74d1088c1b44eaaa16fc5ddfcf62
+      internalID: -7097206713976881211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0008ac9fe89a524b9dd52d9f46f9caf
+      internalID: 2409636321672906645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3da3a5ec10c24a92ac2fb2085e384
+      internalID: -3138643101585739812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a4a71ba76876448bf9b68eec6d7e2e
+      internalID: -5767100406861279951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af30966bb9b696498fe9fb360159ee2
+      internalID: 3635716042392594327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbef81893a42fb49be61331eed055cf
+      internalID: -5546409794139301687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_6
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a751fc07f901443b89e353c7b2702f
+      internalID: -5627952327801018345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_7
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6395ba71063cd94aaaaebf5e5c0fb64
+      internalID: 9146613611263113690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_8
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39353291f52cc594d8f25f95aad1aa86
+      internalID: 5454865604172481640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_9
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1697
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a75f7ab251ede408cee7994e4998dd
+      internalID: 1120406594092309606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec9b9254428d4479593807a6a3f5ba
+      internalID: -294386227703326172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50407aaa75c5a834fb6962350cddbf4c
+      internalID: 7545817364774989848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21fac20cd515b442bfecbf81805f6f9
+      internalID: -4316293680514932259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a329ad105763449618685cb57110a
+      internalID: 6859029853648352288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2698ace4ad4e0469d1b96abcffcc7c
+      internalID: 4648370030169305376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18cef56cd3dce419f0bc18990d9846
+      internalID: 813493014672143130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_16
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f6b0e160b1f0428de46828064add8
+      internalID: 7742277603619860866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_17
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88975ebf3f5a64aa3199de1a797e5d
+      internalID: -8286186993688262086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_18
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9977d1f8feaa5414ab70b1c697122820
+      internalID: 2245224874616456403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_19
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1346
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58be2a3d1e5779498078bd5874fcbed
+      internalID: -25215364058576283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c76105c41a98546844b32618c2bec2
+      internalID: -1563839889536240665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933594e2055e09449ea35997aaaa266
+      internalID: 9203343284981422400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851fb2a29111e4d46971cb9888fd8e76
+      internalID: -20372410076680798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c157be7079c8fc4782c26762d273121
+      internalID: -2275241445604951230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c93036a576164982a586440b083ea
+      internalID: 2418819196085863984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01bf43348af114e8cb70f7108f6f07
+      internalID: 6619325676427281286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_26
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962ced4d7977f04484375f7d5e41f6f
+      internalID: 4321595464093200732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_27
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64671566dbbadb54b9cd747e021d76fc
+      internalID: -8330827941137299417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_28
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a26feffaafe11e4085f8840e59d4498
+      internalID: 2880230047578011700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_29
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 995
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b359ddf4124274eb4d3ce3bce5fbf1
+      internalID: -1832013170083688253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d21243d814c72458d8972da095dfd7
+      internalID: -509903250658273330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210a2f30e5b82545a0b452a48cc0401
+      internalID: 1225757005911548146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8f56e3aa0caf428388ab6e2ec8620
+      internalID: 2108589934440916440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29812f48ee8b8041a0f374886ad882a
+      internalID: 4562538426694905318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_34
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c3b68b233a0345b1315389f1a678c
+      internalID: -3114622578887697804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_35
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27bbc7f965a5b6498a8a397fb860df7
+      internalID: -8984706771704848064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_36
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9656958def6ff4c99908420fbeda95
+      internalID: 7781176131390853277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_37
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6fb63a100ab894bbcf61d3f4326012
+      internalID: 5609215093200737725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_38
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a6e2062f517942a99a68f7c0f34bf
+      internalID: 8026044146106633588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangsakit7_39
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 644
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb4fe81c9c3354bb110e70144a5fb2
+      internalID: -1956477160864781716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

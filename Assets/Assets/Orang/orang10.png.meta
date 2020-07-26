@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 33eb9dad87cda154d816e851e4e1ad57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1134357580915398341
+    second: orang10_0
+  - first:
+      213: -7914352651084308024
+    second: orang10_1
+  - first:
+      213: -4219389200875843221
+    second: orang10_2
+  - first:
+      213: 1211920641217059682
+    second: orang10_3
+  - first:
+      213: -4385417812595373062
+    second: orang10_4
+  - first:
+      213: -702879100280658603
+    second: orang10_5
+  - first:
+      213: 1283890745397378602
+    second: orang10_6
+  - first:
+      213: 112170944100109048
+    second: orang10_7
+  - first:
+      213: 2586988509587467400
+    second: orang10_8
+  - first:
+      213: -7790894731097135093
+    second: orang10_9
+  - first:
+      213: -6514449716621482826
+    second: orang10_10
+  - first:
+      213: 8955551638639995739
+    second: orang10_11
+  - first:
+      213: -8188827462372807598
+    second: orang10_12
+  - first:
+      213: -6590275735584264624
+    second: orang10_13
+  - first:
+      213: -5947047826083106601
+    second: orang10_14
+  - first:
+      213: -969215139587340773
+    second: orang10_15
+  - first:
+      213: -127082195431047243
+    second: orang10_16
+  - first:
+      213: -3549350928426464395
+    second: orang10_17
+  - first:
+      213: 2936921302021905510
+    second: orang10_18
+  - first:
+      213: 4871001271980331125
+    second: orang10_19
+  - first:
+      213: -8944372361747365957
+    second: orang10_20
+  - first:
+      213: 1569248903326383692
+    second: orang10_21
+  - first:
+      213: 2349121546379633168
+    second: orang10_22
+  - first:
+      213: -3784482652190380375
+    second: orang10_23
+  - first:
+      213: -4553591414064770645
+    second: orang10_24
+  - first:
+      213: 8485498986542089486
+    second: orang10_25
+  - first:
+      213: -1517815301447764067
+    second: orang10_26
+  - first:
+      213: -1515478641490060230
+    second: orang10_27
+  - first:
+      213: 2428987092453031888
+    second: orang10_28
+  - first:
+      213: -4852217446965140357
+    second: orang10_29
+  - first:
+      213: 2698339283085690557
+    second: orang10_30
+  - first:
+      213: 1358155932940406953
+    second: orang10_31
+  - first:
+      213: -4997323737471705130
+    second: orang10_32
+  - first:
+      213: 4150760821847541718
+    second: orang10_33
+  - first:
+      213: -6165950225063631279
+    second: orang10_34
+  - first:
+      213: 6212078295424123471
+    second: orang10_35
+  - first:
+      213: -7510872919528075794
+    second: orang10_36
+  - first:
+      213: -6569677043750279313
+    second: orang10_37
+  - first:
+      213: 7946102179244423905
+    second: orang10_38
+  - first:
+      213: 5908355081722160527
+    second: orang10_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orang10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568b83115258894a8ec9fdbb2f70c0b
+      internalID: -1134357580915398341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2aef3900f0d244da8da21e6d8d5f9b
+      internalID: -7914352651084308024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc75677ab629aea4cbbb87c9c1898664
+      internalID: -4219389200875843221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9cf3d05e06a7d47b041b27a54df727
+      internalID: 1211920641217059682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43c3c07f6c1f34c9330021602ebed5
+      internalID: -4385417812595373062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_5
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af116aad13861e46986712b2f2215de
+      internalID: -702879100280658603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_6
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5de9dea3038a8842bb6555f2fe08c42
+      internalID: 1283890745397378602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_7
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe23b7fba2f46642a339e648a971fc8
+      internalID: 112170944100109048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_8
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ae2ffde5ba314599e76d89a87d8ff
+      internalID: 2586988509587467400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_9
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1709
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4eb23fe793946419ba2b0936d977eb
+      internalID: -7790894731097135093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563f243c1603bc459dbf6511f31bdc5
+      internalID: -6514449716621482826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c214f6ec22ecc4e832e9b5a6c71695
+      internalID: 8955551638639995739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961af5ffa66ffb445931c302d6bc69b0
+      internalID: -8188827462372807598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45fa45884c46f439ec4e8ccec51f80
+      internalID: -6590275735584264624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11625ff42c0f6d349b7ac477769d5849
+      internalID: -5947047826083106601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a0b7055b0689b448951ece8184647a
+      internalID: -969215139587340773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_16
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace45b0026135e4aa27e8a3533e6fce
+      internalID: -127082195431047243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_17
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597f82823ce3f840aee5ad5e124eff9
+      internalID: -3549350928426464395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_18
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b82200f3d1da4fa1ac3dde03757fc
+      internalID: 2936921302021905510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_19
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1370
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588235a0d3a97474494762d2e3a41726
+      internalID: 4871001271980331125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f64051e5f2583743bce25e46fa6365a
+      internalID: -8944372361747365957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef440dc835b1c41aebe13ab143492a
+      internalID: 1569248903326383692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f8b294b726ed41ae7b89ceced0647
+      internalID: 2349121546379633168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba6913d3f938644ba335fc24b7be72
+      internalID: -3784482652190380375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_24
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59f8c510f07704ab579e4c50fb053f
+      internalID: -4553591414064770645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_25
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab4eaecec49ac4b88a5e89fbd166bc
+      internalID: 8485498986542089486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_26
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df42144e10164408817a1b53a84ec6
+      internalID: -1517815301447764067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_27
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b249c34fee6a47b4c636b5cb79e81
+      internalID: -1515478641490060230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_28
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc82f8811036b544ac0d5d181c55e92
+      internalID: 2428987092453031888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_29
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1031
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620b7576f2691e447a74fbd413abb2ff
+      internalID: -4852217446965140357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5aaaa08426a7448c51790f8f55d2f
+      internalID: 2698339283085690557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786594e3561159c418ec414c35222e2a
+      internalID: 1358155932940406953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b7891bc1ba3542be8a2be1d7c36e5
+      internalID: -4997323737471705130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cf89e20f91261499817e76a35d5a6f
+      internalID: 4150760821847541718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_34
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25503b4f0093afc419bfe7c9388935f1
+      internalID: -6165950225063631279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_35
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567fd7e0c9f50a242858075f8fa2725b
+      internalID: 6212078295424123471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_36
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d2187b26f681241ae882c5ea3e8f31
+      internalID: -7510872919528075794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_37
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38fe21c5c56374489362da07ff47f0
+      internalID: -6569677043750279313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_38
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d38abaf7fccadf4ca0b2e95a2680e82
+      internalID: 7946102179244423905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orang10_39
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 692
+        width: 191
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e75ce9b30f35ab429daadbbde35cabf
+      internalID: 5908355081722160527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
